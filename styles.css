@@ -1,0 +1,23 @@
+body {
+    background-color: #dceaf0;
+}
+
+section {
+    background-color: #ffffff;
+    color: #7a7376;
+    height: 400px;
+    width: 400px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+h2 {
+    color: #7a7376;
+}
+
+button {
+    background-color: #3598db;
+    color: white;
+}
