@@ -31,6 +31,18 @@ h2 {
     margin-top: 0;
 }
 
+input {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 0.75em;
+    display: block;
+    border: none;
+    border-bottom: 1px #7a7376 solid;
+    margin: auto;
+    padding-top: 10px;
+    width: 300px
+    
+}
+
 button {
     background-color: #3598db;
     color: white;
