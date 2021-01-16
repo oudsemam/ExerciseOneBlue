@@ -33,12 +33,13 @@ h2 {
 
 input {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 0.75em;
+    font-size: 20px;
     display: block;
     border: none;
     border-bottom: 1px #7a7376 solid;
-    margin: auto;
+    margin: 40px auto;
     padding-top: 10px;
+    padding-bottom: 5px;
     width: 300px
     
 }
@@ -59,11 +60,16 @@ a {
     font-family: "Roboto", sans-serif;
     text-decoration: none;
     font-size: 13px;
+    color: #7a7376;
 }
 
 #forgot {
     display: block;
     text-align: end;
+    position: absolute;
+    left: 300px;
+    top: 220px;
+    z-index: 5;
 }
 
 #account {
