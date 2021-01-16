@@ -44,6 +44,13 @@ input {
 }
 
 button {
+    font-family: "Roboto", sans-serif;
+    font-size: 1em;
+    font-weight: bold;
     background-color: #3598db;
     color: white;
+    display: block;
+    margin: 10px auto;
+    padding: 8px 100px;
+    border: none;
 }
